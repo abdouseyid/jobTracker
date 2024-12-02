@@ -5,12 +5,11 @@ Entities:
 
 Job Seekers: Individuals actively searching for employment opportunities across various
 industries and sectors.
-Job Listings: Open positions posted by employers and recruitment agencies seeking qualified candidates to fill specific
-roles.
 Applications: Submissions made by job seekers in response to job listings, including resumes, cover letters, and
 additional materials.
 Interviews: Scheduled meetings or assessments conducted by employers to evaluate candidates' qualifications and
 suitability for job roles.
 Documents: Resume, Cover Letter and Certificates, etc.
+Favourite company: List of companies targeted by a Job seeker
 Job Tracker Application: A web application designed to streamline the job search process for job seekers by
 providing tools and features to organize and manage job search activities effectively.
